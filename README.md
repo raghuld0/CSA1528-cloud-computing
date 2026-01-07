@@ -1,1 +1,1 @@
-# CSA1528-cloud-computing
+# CSA1528-Cloud-computing
